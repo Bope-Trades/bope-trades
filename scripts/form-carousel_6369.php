@@ -34,7 +34,7 @@ $form = array(
     'order' => 3,
     'type' => 'string',
     'label' => 'Nome no discord',
-    'required' => true,
+    'required' => false,
     'errors' => array(
     'required' => 'Field \'Nome no discord\' is required.'
     )
@@ -55,6 +55,15 @@ $form = array(
     'required' => true,
     'errors' => array(
     'required' => 'Field \'Porque quer entrar para a staff?\' is required.'
+    )
+    ),
+    'agree' => array(
+    'order' => 6,
+    'type' => 'checkbox',
+    'label' => 'Eu aceito os Termos de Serviço',
+    'required' => true,
+    'errors' => array(
+    'required' => 'Field \'Eu aceito os Termos de Serviço\' is required.'
     )
     ),
     )
