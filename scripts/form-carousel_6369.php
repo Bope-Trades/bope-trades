@@ -30,9 +30,9 @@ $form = array(
     'required' => 'Field \'Name\' is required.'
     )
     ),
-    'phone' => array(
+    'message-2' => array(
     'order' => 3,
-    'type' => 'tel',
+    'type' => 'string',
     'label' => 'Nome no discord',
     'required' => true,
     'errors' => array(
