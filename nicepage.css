@@ -33681,16 +33681,13 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1rem;
   letter-spacing: 0px;
   font-weight: 500;
+  text-transform: none;
 }
 
 .u-header .u-nav-2 {
   font-size: 1rem;
 }
-@media (max-width: 1199px) {
-  .u-header .u-nav-1 {
-    text-transform: none;
-  }
-}
+
 
 
 
