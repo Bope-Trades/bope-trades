@@ -50,6 +50,7 @@
   font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
+  letter-spacing: normal;
   margin: 20px auto 0;
 }
 
@@ -90,6 +91,7 @@
   font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
+  letter-spacing: normal;
   margin: 20px auto 0;
 }
 
@@ -130,6 +132,7 @@
   font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
+  letter-spacing: normal;
   margin: 20px auto 0;
 }
 
@@ -171,6 +174,7 @@
   font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
+  letter-spacing: normal;
   margin: 20px auto 0;
 }
 
@@ -192,10 +196,6 @@
     width: 223px;
   }
 
-  .u-section-1 .u-btn-1 {
-    letter-spacing: normal;
-  }
-
   .u-section-1 .u-layout-cell-2 {
     min-height: 384px;
   }
@@ -212,10 +212,6 @@
 
   .u-section-1 .u-line-2 {
     width: 223px;
-  }
-
-  .u-section-1 .u-btn-2 {
-    letter-spacing: normal;
   }
 
   .u-section-1 .u-layout-cell-3 {
@@ -236,10 +232,6 @@
     width: 223px;
   }
 
-  .u-section-1 .u-btn-3 {
-    letter-spacing: normal;
-  }
-
   .u-section-1 .u-layout-cell-4 {
     min-height: 384px;
   }
@@ -256,10 +248,6 @@
 
   .u-section-1 .u-line-4 {
     width: 223px;
-  }
-
-  .u-section-1 .u-btn-4 {
-    letter-spacing: normal;
   }
 }
 
